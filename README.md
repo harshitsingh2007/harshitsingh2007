@@ -52,7 +52,7 @@ I believe in **consistent learning, clean code, and real-world projects**.
 
 ![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitsingh2007&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=harshitsingh2007&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=harshitsingh2007&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsingh2007&layout=compact&theme=tokyonight&hide_border=true)
 
