@@ -1,156 +1,342 @@
 <div align="center">
 
-# 💫 Hey there, I'm Harshit Singh!
-### 🎓 BCA Student (Batch of 2027) | Aspiring Software & Data Engineer
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+DSA+Enthusiast;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+AI-Powered+Full+Stack+Apps;Clean+Code+%26+System+Optimization)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:38bdf8&height=220&section=header&text=HARSHIT%20SINGH&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST%20%7C%20PROBLEM%20SOLVER&descAlignY=60&descSize=17" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/harshit-singh-8b106b323)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshit971897@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshit_singh2007/)
-[![Profile Views](https://visitcount.itsvg.in/api?id=harshitsingh2007&label=Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://github.com/harshitsingh2007">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Final-Year+BCA+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%9A%80;MERN+%7C+Next.js+%7C+Node.js;Building+AI-Powered+Applications+%F0%9F%A4%96;DSA+%7C+C%2B%2B+%7C+System+Design;Turning+Ideas+Into+Scalable+Products+%E2%9A%A1" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/harshit-singh-8b106b323/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:harshit971897@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/harshitsingh2007">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=harshitsingh2007&label=PROFILE%20VIEWS&color=38bdf8&style=for-the-badge" />
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎯 **Focus Areas:** Full Stack Web Development, Data Structures & Algorithms, and RESTful API design.
-- 🛠️ **Current Stack:** Building end-to-end applications with **React.js, Next.js, Node.js, Express.js, and MongoDB**.
-- 🤖 **Recently Built:** An AI-powered learning platform with tutoring, chatbots, adaptive learning, and real-time quiz battles (Socket.IO).
-- 💼 **Experience:** Completed full-stack internships at Geeta Technical Hub and Software Services and Solutions, shipping production-style apps and 40+ REST APIs.
-- 🚀 **Exploring:** Big Data ecosystems, Hadoop, and the foundations of Machine Learning.
-- 🐧 **Environment:** Comfortable with **Linux, Git workflows, Postman, and Shell Scripting**.
-- 💡 **Philosophy:** Writing clean, maintainable code and solving real-world problems through continuous learning.
-
----
-
-### 💼 Experience
-
-**Intern — Software Services and Solutions**, Patna, Bihar · *Jun 2026 – Jul 2026*
-- Developed 3+ Next.js applications using SSR, SSG, and App Router, improving SEO and cutting page load time by 35%.
-- Built 20+ reusable components, 15+ dynamic routes, and integrated 25+ secure REST APIs with JWT authentication.
-- Optimized performance with lazy loading, code splitting, and image optimization.
-- Refactored reusable modules, resolved 50+ issues, and collaborated using Git/GitHub.
-
-**Intern — Geeta Technical Hub**, Panipat, Haryana · *Jun 2025 – Jul 2025*
-- Completed an 8-week intensive training in full stack web development (frontend + backend).
-- Architected 3+ full-stack applications using HTML, CSS, JavaScript, React, Node.js, and MongoDB.
-- Designed and engineered 10+ RESTful APIs for data handling and application functionality.
-- Built user authentication systems (login/signup) with secure session handling.
-- Managed MongoDB databases with multiple collections and CRUD operations.
-
----
-
-### 🚀 Featured Projects
-
-**🔹 [NextNova — AI-Powered Learning Platform](https://github.com/harshitsingh2007/NextNova)** · [Live Demo](https://next-nova-main.vercel.app/) · *Apr 2026 – May 2026*
-Full-stack AI learning platform with 15+ features, including AI tutoring, a chatbot, adaptive learning, course generation, and personalized roadmaps. Real-time quiz battles built with Socket.IO (XP, streaks, achievements, leaderboards), 20+ REST APIs with JWT auth and role-based access, plus personalized dashboards to track student progress and analytics.
-`Next.js` `Node.js` `Express.js` `MongoDB` `Socket.IO` `JWT` `AI` `Tailwind CSS`
-
-**🔹 [CodeCrafts — Full Stack Marketplace](https://github.com/harshitsingh2007/codeCrafts-frontend)** · [Live Demo](https://code-crafts-frontend.vercel.app/) · *Jul 2025 – Sep 2025*
-Full-stack marketplace supporting 50+ products, with a shopping cart and admin dashboard (CRUD + JWT auth). Built 20+ reusable UI components with 85% code coverage, 15+ REST APIs, AI-based recommendations, and Cloudinary-powered media handling.
-`React.js` `Node.js` `MongoDB` `JWT` `Cloudinary`
-
----
-
-### 🛠️ Tech Stack & Tooling
-
 <div align="center">
 
-**Languages & Core**
+## ⚡ `console.log("Hello, World!");`
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Databases & APIs**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-**Platforms & Tools**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+```text
+┌───────────────────────────────────────────────────────────┐
+│                                                           │
+│   👋 Hi, I'm Harshit Singh                                │
+│                                                           │
+│   🎓 Final-Year BCA Student                               │
+│   💻 Full Stack Developer                                │
+│   🤖 AI Application Builder                              │
+│   🧠 DSA & C++ Problem Solver                            │
+│                                                           │
+│   I don't just write code.                               │
+│   I build things that solve problems.                    │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-### 📊 GitHub Activity & Stats
+# 🧑‍💻 About Me
+
+I'm a **Final-Year BCA student at Geeta University** and a Full Stack Developer focused on building modern, scalable web applications.
+
+I enjoy working across the complete development lifecycle — from designing responsive interfaces with **React.js / Next.js** to building backend systems with **Node.js / Express.js**, REST APIs, authentication, databases, and AI-powered features.
+
+I've gained practical industry experience through full-stack internships and have worked on applications involving reusable components, REST APIs, JWT authentication, MongoDB, performance optimization, and Git/GitHub workflows.
+
+### 🚀 What I'm Currently Doing
+
+```text
+▸ Building        → Full Stack & AI-powered applications
+▸ Learning        → System Design & Backend Architecture
+▸ Practicing      → DSA & C++
+▸ Exploring       → AI integrations & scalable systems
+▸ Improving       → Performance, clean code & architecture
+```
+
+---
+
+# 🧰 My Tech Universe
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitsingh2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=harshitsingh2007&theme=tokyonight&hide_border=true" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsingh2007&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=harshitsingh2007&limit=4&theme=tokyonight&combine_all_yearly_contributions=true" width="48%" />
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,js,python" />
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,bash" />
+
 </div>
 
 ---
 
-### 🎓 Education
-
-- **Geeta University**, Panipat, Haryana — Bachelor of Computer Applications · CGPA 8.05 · *2024 – Present*
-- **M.L Govt Boys Sr Sec School**, Narela, Delhi — Intermediate · 78.8% · *2023 – 2024*
-
----
-
-### 🧩 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-149%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshit_singh2007/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-4★%20(C%2B%2B)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![Hacker Blocks](https://img.shields.io/badge/Hacker_Blocks-Profile-orange?style=for-the-badge)](https://hack.codingblocks.com/app/users/416006)
-
----
-
-### 🏆 Achievements
-
-- 🥇 Top 15 — Internal Hackathon, Geeta University
-- 🥇 Top 15 — National Level Hackathon, GNDEC, Ludhiana, Punjab
-- 🥉 30th Rank — National Science Day Quiz Competition, Unstop
-- 🏅 Top 4 — Quiz Competition, Unstop
+# 🚀 Things I've Built
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=harshitsingh2007&theme=tokyonight&no-frame=true&margin-w=10)
+### 🛒 CODE-CRAFTS
+
+**Full Stack Marketplace**
+
+<a href="https://github.com/harshitsingh2007">
+<img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-Recommendations-8B5CF6?style=flat-square"/>
+</a>
+
+</div>
+
+> A full-stack marketplace supporting **50+ products**, featuring authentication, shopping cart functionality, admin dashboard, REST APIs, Cloudinary media handling, and AI-based recommendations.
+
+```text
+React.js ────────┐
+                 │
+                 ▼
+             Node.js
+                 │
+          Express REST APIs
+                 │
+                 ▼
+             MongoDB
+                 │
+        ┌────────┴────────┐
+        ▼                 ▼
+   JWT Auth        AI Recommendations
+```
+
+---
+
+<div align="center">
+
+### 🤖 NEXTNOVA
+
+**AI-Powered Learning Platform**
+
+<img src="https://img.shields.io/badge/Next.js-Frontend-black?style=flat-square&logo=next.js"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/AI-Powered-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Socket.IO-Realtime-010101?style=flat-square&logo=socket.io"/>
+
+</div>
+
+> An AI-powered learning platform with **15+ learning features**, including AI tutoring, chatbot, adaptive learning, course generation, personalized roadmaps, real-time quiz battles, XP, streaks, achievements, leaderboards, and learning analytics.
+
+```text
+                    NEXTNOVA
+                       │
+       ┌───────────────┼────────────────┐
+       ▼               ▼                ▼
+     AI Tutor       Adaptive         Learning
+     Chatbot        Learning         Roadmaps
+       │               │                │
+       └───────────────┼────────────────┘
+                       ▼
+                 Student Dashboard
+                       │
+                 ┌─────┴─────┐
+                 ▼           ▼
+             Analytics    Quiz Battles
+                              │
+                    XP • Streaks • Rank
+```
+
+---
+
+# 💼 Experience
+
+### 🏢 Software Services and Solutions
+
+**Full Stack Intern · June 2026 – July 2026**
+
+`Next.js` `Node.js` `REST APIs` `JWT` `Git`
+
+* Built **3+ Next.js applications** using SSR, SSG and App Router.
+* Created **20+ reusable components** and **15+ dynamic routes**.
+* Integrated **25+ secure REST APIs** with JWT authentication.
+* Improved performance using lazy loading, code splitting and image optimization.
+* Resolved **50+ issues** while collaborating through Git/GitHub.
+
+### 🏢 Geeta Technical Hub
+
+**Full Stack Intern · June 2025 – July 2025**
+
+`React` `Node.js` `MongoDB` `REST APIs`
+
+* Built **3+ full-stack applications**.
+* Designed **10+ RESTful APIs**.
+* Implemented authentication systems.
+* Managed MongoDB collections and CRUD operations.
+
+---
+
+# 🧠 My Developer Mindset
+
+<div align="center">
+
+|  🔥 | Focus                         |
+| :-: | :---------------------------- |
+|  🧩 | **Problem Solving**           |
+| 🏗️ | **Scalable Architecture**     |
+|  ⚡  | **Performance Optimization**  |
+|  🧹 | **Clean & Maintainable Code** |
+|  🤖 | **AI Integration**            |
+|  📚 | **Continuous Learning**       |
 
 </div>
 
 ---
 
-### 📜 Courses & Certifications
-
-- National Level Hackathon — Participant, *November 2025*
-- Internal Hackathon — Participant, *April 2026*
-- Introduction to Network Analysis — Security Blue Team
-- Cybersecurity Fundamentals — *March 2025*
-
----
+# 🏆 Achievements
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://img.shields.io/badge/🏅_TOP_15-Internal_Hackathon-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏅_TOP_15-National_Hackathon-FFD700?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/⭐_4_STAR-HackerRank_C%2B%2B-00EA64?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻_149%2B-LeetCode_Solved-FFA116?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🏆_30th-National_Science_Day_Quiz-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏆_TOP_4-Quiz_Competition-8B5CF6?style=for-the-badge"/>
+
+</div>
+
+My resume records **Top 15 finishes in both an internal Geeta University hackathon and a national-level hackathon at GNDEC**, along with other quiz achievements.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshitsingh2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=harshitsingh2007&theme=tokyonight&hide_border=true" width="49%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsingh2007&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="42%" />
+
+</div>
+
+---
+
+# 🐍 My Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/harshitsingh2007/harshitsingh2007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitsingh2007&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshitsingh2007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+
+</div>
+
+---
+
+# 🎯 2026 — What I'm Building Toward
+
+```text
+                    2026 ROADMAP
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+        ▼                ▼                ▼
+      DSA           SYSTEM DESIGN      AI
+        │                │                │
+        ▼                ▼                ▼
+     C++           Backend Systems    AI Apps
+        │                │                │
+        └────────────────┼────────────────┘
+                         ▼
+                🚀 SOFTWARE ENGINEER
+```
+
+### Current Goals
+
+* [x] Build production-style full-stack applications
+* [x] Complete full-stack internships
+* [x] Build AI-powered applications
+* [x] Work with REST APIs & authentication
+* [ ] Strengthen DSA & competitive programming
+* [ ] Master System Design fundamentals
+* [ ] Contribute consistently to Open Source
+* [ ] Build and deploy more production-ready systems
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/harshit-singh-8b106b323/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:harshit971897@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/harshitsingh2007">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 💬 *"Code. Learn. Build. Repeat."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0369a1,100:0f172a&height=120&section=footer" width="100%"/>
 
 </div>
