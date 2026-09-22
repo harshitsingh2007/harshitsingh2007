@@ -1,5 +1,4 @@
-<div align="center">
-
+<div align="center"?
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:0f172a,100:0284c7&text=HARSHIT%20SINGH&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20AI%20BUILDER%20%E2%80%A2%20PROBLEM%20SOLVER&descSize=16&descAlignY=61&animation=fadeIn" width="100%"/>
 
 <br>
@@ -25,8 +24,6 @@
 <img src="https://komarev.com/ghpvc/?username=harshitsingh2007&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS"/>
 
 </div>
-
----
 
 <div align="center">
 
@@ -204,7 +201,7 @@ DSA & System Design
 
 </div>
 
----
+
 
 # 🐍 The Contribution Journey
 
